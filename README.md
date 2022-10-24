@@ -1,3 +1,4 @@
 # bst
 Balanced Binary Search Trees
-https://www.theodinproject.com/lessons/javascript-binary-search-trees
+
+Submitted in response to [this assignment](https://www.theodinproject.com/lessons/javascript-binary-search-trees).
